@@ -1,0 +1,12 @@
+ul a {
+  color:#fff;
+  text-decoration: none;
+}
+ul a:focus,
+ul a:hover {
+  text-decoration: underline;
+}
+
+ul a.active > div {
+  background: #eee;
+}
