@@ -4,6 +4,7 @@
   Location: Dijon, FRANCE.
 
   JS developer: Vincent Labussière
+  Site: https://kabanon.info
   Location: Dijon, FRANCE.
 
 /* THANKS */
