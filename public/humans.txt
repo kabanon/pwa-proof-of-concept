@@ -1,0 +1,10 @@
+
+/* TEAM */
+  JS developer: Mónica Anel Ayala Gonzales
+  Location: Dijon, FRANCE.
+
+  JS developer: Vincent Labussière
+  Location: Dijon, FRANCE.
+
+/* THANKS */
+	i-com CEO: Pascal Tournier
