@@ -1,6 +1,7 @@
 
 /* TEAM */
   JS developer: Mónica Anel Ayala Gonzales
+  Site: https://github.com/morual
   Location: Dijon, FRANCE.
 
   JS developer: Vincent Labussière
