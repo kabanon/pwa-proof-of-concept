@@ -62,7 +62,11 @@ class CrmCompanySyncComponent extends React.Component {
           sync: 'finished',
           op: ['Local company storage synchronization complete.', ...this.state.op]
         })
-        dispatchStatus('company')
+        if (Notification.permission === "granted") {
+          new Notification("PWA POC", {body: "Company sync complete"});
+          // const notification = new Notification("PWA POC", {body: "Company sync complete"});
+          // setTimeout(notification.close.bind(notification), 4000);
+        }
       })
       .catch( (error) => {
         dispatchStatus('company')
