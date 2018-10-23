@@ -61,7 +61,11 @@ class CrmPeopleSyncComponent extends React.Component {
           sync: 'finished',
           op: ['Local people storage synchronization complete.', ...this.state.op]
         })
-        dispatchStatus('people')
+        if (Notification.permission === "granted") {
+          new Notification("POC PWA", {body:"People sync complete"});
+          // var notification = new Notification("POC PWA", {body:"People sync complete"});
+          // setTimeout(notification.close.bind(notification), 4000);
+        }
       })
       .catch( (error) => {
         // An error has occurs.
