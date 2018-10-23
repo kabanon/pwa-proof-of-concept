@@ -1,0 +1,22 @@
+[
+  '{{repeat(401, 401)}}',
+  {
+    id: '{{index()}}',
+    vid: '{{index()}}',
+    uuid: '{{guid()}}',
+    status: '{{bool()}}',
+    first_name: '{{firstName()}}',
+    last_name: '{{surname()}}',
+    tel: '+33 {{phone()}}',
+    email: '{{email()}}',
+    address: {
+      line1: '{{integer(100, 999)}} {{street()}}',
+      line2: '',
+      postal_code: '{{integer(10000, 90000)}}',
+      city: '{{city()}}',
+      country: 'France'
+    },
+    created: '{{Math.ceil(date(new Date(2017, 0, 1), new Date()).getTime() / 1000)}}',
+    changed: '{{Math.ceil(date(new Date(2017, 0, 1), new Date()).getTime() / 1000)}}'
+  }
+]

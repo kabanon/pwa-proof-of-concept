@@ -1,77 +1,68 @@
 import React from 'react';
 import { Card, CardContent, Typography } from '@material-ui/core';
-import CrmCompanyCardSystemHeader from './header-system'
+import CrmPeopleCardContactHeader from './header-contact'
 /**
- * Company card.
+ * People card.
  */
-const CrmCompanyCardSystem = (props) => {
-    const { id, vid, uuid, status, created, changed } = props
-
-    const display_status = (status) ? 'Published' : 'Unpublished'
+const CrmPeopleCardContact = (props) => {
+    const { street, complementary_street, postal_code, city, country, manager, tel, fax, email } = props
     //
     // Render company summary card.
     //
     return (
         <Card>
-          <CrmCompanyCardSystemHeader />
+          <CrmPeopleCardContactHeader />
           <CardContent>
-            { id &&
+            { manager &&
               <div>
                 <Typography align="left" color="textSecondary">
-                  ID
+                  Manager
                 </Typography>
                 <Typography align="left" component="p" gutterBottom>
-                  { id }
+                  { manager }
                 </Typography>
               </div>
             }
-            { vid &&
+            { city &&
               <div>
                 <Typography align="left" color="textSecondary">
-                  VID
+                  Address
                 </Typography>
                 <Typography align="left" component="p" gutterBottom>
-                  { vid }
+                  { street } { complementary_street } - { postal_code } { city } ({ country })
                 </Typography>
               </div>
             }
-            { uuid &&
+
+            { tel &&
               <div>
                 <Typography align="left" color="textSecondary">
-                  UUID
+                  Phone
                 </Typography>
                 <Typography align="left" component="p" gutterBottom>
-                  { uuid }
+                  { tel }
                 </Typography>
               </div>
             }
-            { status &&
+
+            { fax &&
               <div>
                 <Typography align="left" color="textSecondary">
-                  Status
+                  Fax
                 </Typography>
                 <Typography align="left" component="p" gutterBottom>
-                  { display_status }
+                  { fax }
                 </Typography>
               </div>
             }
-            { created &&
+
+            { email &&
               <div>
                 <Typography align="left" color="textSecondary">
-                  Created
+                  Mail
                 </Typography>
                 <Typography align="left" component="p" gutterBottom>
-                  { created }
-                </Typography>
-              </div>
-            }
-            { changed &&
-              <div>
-                <Typography align="left" color="textSecondary">
-                  Changed
-                </Typography>
-                <Typography align="left" component="p" gutterBottom>
-                  { changed }
+                  { email }
                 </Typography>
               </div>
             }
@@ -80,4 +71,4 @@ const CrmCompanyCardSystem = (props) => {
     )
 }
 
-export default CrmCompanyCardSystem
+export default CrmPeopleCardContact

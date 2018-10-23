@@ -2,7 +2,7 @@ import React, { Component } from 'react'
 import PropTypes from 'prop-types'
 import { connect } from 'react-redux'
 import { setSearchContext } from '../../../../redux/actions/actions'
-import CrmCompanyCardSummary from '../../../components/crm/company/card/summary'
+import CrmPeopleCardSummary from '../../../components/crm/people/card/summary'
 import Paper from '@material-ui/core/Paper';
 import Typography from '@material-ui/core/Typography';
 import Grid from '@material-ui/core/Grid';
@@ -16,9 +16,9 @@ import * as Database from '../../../../utils/db';
 import './list.css'
 
 /**
- * UI - Company list.
+ * UI - People list.
  */
-class CrmCompanyListContainer extends Component {
+class CrmPeopleListContainer extends Component {
   constructor(props) {
     super(props)
     this.state = {
@@ -43,13 +43,13 @@ class CrmCompanyListContainer extends Component {
       if (search !== '') {
         const regexp = new RegExp(search, 'i');
         query_search = {
-          name: {
+          last_name: {
             '$regex': regexp
           }
         }
       }
       // Execute request (js promise)
-      return db.collections.company.find(query_search).sort({name:1}).exec()
+      return db.collections.people.find(query_search).sort({last_name:1}).exec()
     })
     .then( (documents) => {
       // Update component state.
@@ -80,9 +80,9 @@ class CrmCompanyListContainer extends Component {
     let data;
     let pagination;
     // Change search scope.
-    if (scope !== 'crmCompany') {
+    if (scope !== 'crmPeople') {
       const changeSearchContext = this.props.changeSearchContext
-      changeSearchContext()
+      changeSearchContext('crmPeople')
     }
     // If current state loading is true (no result received from the promise).
     if (loading) {
@@ -95,7 +95,7 @@ class CrmCompanyListContainer extends Component {
         <div>
           <p>
             <Link to="/sync">
-              No company in database. Have you synchronize the data?
+              No people in database. Have you synchronize the data?
             </Link>
           </p>
 
@@ -131,18 +131,21 @@ class CrmCompanyListContainer extends Component {
       // Mobile detect object.
       const _mobileDetect = new MobileDetect(window.navigator.userAgent)
       const isMobile = _mobileDetect.mobile()
+      const isMobileiOS = _mobileDetect.is('iPhone') || _mobileDetect.is('iPad')
 
-      // Load CRM Company Summary component for each elements.
+      // Load CRM People Summary component for each elements.
       data = _items.map((item, index) => {
         return (
           <Grid key={index} item xs={12} sm={6} md={4} lg={3} xl={2}>
-            <CrmCompanyCardSummary
+            <CrmPeopleCardSummary
               id={item.get('id')}
-              name={item.get('name')}
+              first_name={item.first_name}
+              last_name={item.last_name}
               tel={item.get('tel')}
               email={item.get('email')}
               view={1}
               ismobile={isMobile}
+              isMobileiOS={isMobileiOS}
             />
           </Grid>
         )
@@ -157,7 +160,7 @@ class CrmCompanyListContainer extends Component {
         <Grid item xs={12}>
           <Paper>
             <Typography variant="headline" component="h2" align="center">
-              Companies
+              People
             </Typography>
           </Paper>
         </Grid>
@@ -172,7 +175,7 @@ class CrmCompanyListContainer extends Component {
   }
 }
 // PropTypes for Sync Component.
-CrmCompanyListContainer.propTypes = {
+CrmPeopleListContainer.propTypes = {
   scope: PropTypes.string.isRequired,
   skip: PropTypes.number.isRequired,
   limit: PropTypes.number.isRequired,
@@ -182,20 +185,20 @@ CrmCompanyListContainer.propTypes = {
 const mapStateToProps = state => {
   return {
     scope: state.search.scope,
-    skip: state.search.context['crmCompany'].skip,
-    limit: state.search.context['crmCompany'].limit,
-    search: state.search.context['crmCompany'].search,
+    skip: state.search.context['crmPeople'].skip,
+    limit: state.search.context['crmPeople'].limit,
+    search: state.search.context['crmPeople'].search,
   }
 }
 // Connect SyncComponent => Dispatch.
 const mapDispatchToProps = dispatch => {
   return {
     changeSearchContext() {
-      dispatch(setSearchContext('crmCompany'))
+      dispatch(setSearchContext('crmPeople'))
     }
   }
 }
 // Redux connect component.
-const CrmCompanyList = connect(mapStateToProps, mapDispatchToProps)(CrmCompanyListContainer)
+const CrmPeopleList = connect(mapStateToProps, mapDispatchToProps)(CrmPeopleListContainer)
 
-export default CrmCompanyList
+export default CrmPeopleList

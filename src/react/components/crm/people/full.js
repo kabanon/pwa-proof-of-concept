@@ -4,12 +4,11 @@ import LinearProgress from '@material-ui/core/LinearProgress';
 import MobileDetect  from 'mobile-detect'
 import Grid from '@material-ui/core/Grid';
 
-import CrmCompanyCardSummary from './card/summary'
-import CrmCompanyCardContact from './card/content-contact'
-import CrmCompanyCardLegal from './card/content-legal'
-import CrmCompanyCardSystem from './card/content-system'
+import CrmPeopleCardSummary from './card/summary'
+import CrmPeopleCardContact from './card/content-contact'
+import CrmPeopleCardSystem from './card/content-system'
 
-class CrmCompanyFull extends React.Component {
+class CrmPeopleFull extends React.Component {
   constructor(props) {
     super(props)
     this.state = {
@@ -31,7 +30,7 @@ class CrmCompanyFull extends React.Component {
       const search = {
         id: Number(this.props.match.params.id)
       }
-      return db.collections.company.findOne(search).exec()
+      return db.collections.people.findOne(search).exec()
     })
     .then( (doc) => {
       this.setState({
@@ -81,21 +80,25 @@ class CrmCompanyFull extends React.Component {
     else {
       // Mobile detect object.
       const _mobileDetect = new MobileDetect(window.navigator.userAgent)
+      const isMobile = _mobileDetect.mobile()
+      const isMobileiOS = _mobileDetect.is('iPhone') || _mobileDetect.is('iPad')
 
       progress = <LinearProgress color="secondary" variant="determinate" value={100} />
       content = <Grid container spacing={8}>
         <Grid item xs={12}>
-          <CrmCompanyCardSummary
+          <CrmPeopleCardSummary
             id={doc.id}
-            name={doc.name}
+            first_name={doc.first_name}
+            last_name={doc.last_name}
             tel={doc.tel}
             email={doc.email}
             edit={1}
-            ismobile={_mobileDetect.mobile()}
+            ismobile={isMobile}
+            isMobileiOS={isMobileiOS}
           />
         </Grid>
-        <Grid item xs={12} sm={6} md={4}>
-          <CrmCompanyCardContact
+        <Grid item xs={12} sm={6}>
+          <CrmPeopleCardContact
             id={doc.id}
             street={doc.address.line1}
             complementary_street={doc.address.line2}
@@ -108,18 +111,8 @@ class CrmCompanyFull extends React.Component {
             email={doc.email}
           />
         </Grid>
-        <Grid item xs={12} sm={6} md={4}>
-          <CrmCompanyCardLegal
-            id={doc.id}
-            ape={doc.ape}
-            licence={doc.licence}
-            siret={doc.siret}
-            tva={doc.tva}
-            juridic={doc.juridic}
-          />
-        </Grid>
-        <Grid item xs={12} md={4}>
-          <CrmCompanyCardSystem
+        <Grid item xs={12} sm={6}>
+          <CrmPeopleCardSystem
             id={doc.id}
             vid={doc.vid}
             uuid={doc.uuid}
@@ -142,4 +135,4 @@ class CrmCompanyFull extends React.Component {
   }
 }
 
-export default CrmCompanyFull;
+export default CrmPeopleFull;

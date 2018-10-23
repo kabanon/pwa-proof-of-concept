@@ -1,10 +1,10 @@
 import React from 'react';
 import { Card, CardContent, Typography } from '@material-ui/core';
-import CrmCompanyCardSystemHeader from './header-system'
+import CrmPeopleCardSystemHeader from './header-system'
 /**
- * Company card.
+ * People card.
  */
-const CrmCompanyCardSystem = (props) => {
+const CrmPeopleCardSystem = (props) => {
     const { id, vid, uuid, status, created, changed } = props
 
     const display_status = (status) ? 'Published' : 'Unpublished'
@@ -13,7 +13,7 @@ const CrmCompanyCardSystem = (props) => {
     //
     return (
         <Card>
-          <CrmCompanyCardSystemHeader />
+          <CrmPeopleCardSystemHeader />
           <CardContent>
             { id &&
               <div>
@@ -80,4 +80,4 @@ const CrmCompanyCardSystem = (props) => {
     )
 }
 
-export default CrmCompanyCardSystem
+export default CrmPeopleCardSystem

@@ -1,4 +1,6 @@
-
+/**
+ * CRM Company DB schema.
+ */
 export const DB_SCHEMA_CRM_COMPANY = {
   title: 'CRM company',
   description: 'CRM company database schema',
@@ -57,7 +59,7 @@ export const DB_SCHEMA_CRM_COMPANY = {
         }
       }
     },
-    responsible: {
+    manager: {
       type: 'string',
       encrypted: true,
     },
@@ -84,4 +86,73 @@ export const DB_SCHEMA_CRM_COMPANY = {
     },
   },
   required: ['id', 'uuid', 'name']
+}
+/**
+ * CRM People DB schema.
+ */
+export const DB_SCHEMA_CRM_PEOPLE = {
+  title: 'CRM People',
+  description: 'CRM people database schema',
+  version: 0,
+  type: 'object',
+  properties: {
+    id: {
+      type: 'integer',
+    },
+    vid: {
+      type: 'integer',
+    },
+    uuid: {
+      type: 'string',
+      primary: true,
+    },
+    status: {
+      type: 'boolean'
+    },
+    first_name: {
+      type: 'string',
+      index: true,
+    },
+    last_name: {
+      type: 'string',
+      index: true,
+    },
+    tel: {
+      type: 'string',
+      encrypted: true,
+      index: true,
+    },
+    email: {
+      type: 'string',
+      encrypted: true,
+      index: true,
+    },
+    address: {
+      type: "object",
+      properties: {
+        line1: {
+          type: 'string',
+        },
+        line2: {
+          type: 'string',
+        },
+        postal_code: {
+          type: 'integer',
+        },
+        city: {
+          type: 'string',
+        },
+        country: {
+          type: 'string',
+        }
+      }
+    },
+    created: {
+      type: 'integer',
+    },
+    changed: {
+      type: 'integer',
+    },
+  },
+  required: ['id', 'uuid', 'email']
 }

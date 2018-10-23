@@ -18,6 +18,7 @@ else {
 
 export const API_URL = `${API_HOST}/api/v1`
 export const API_URL_CRM_COMPANY = `${API_URL}/company.json`
+export const API_URL_CRM_PEOPLE = `${API_URL}/people.json`
 export const API_DEFAULT_REQUEST_PARAMS = {timeout: 10000,}
 export const API_DEFAULT_LIMIT = 50
 export const SEARCH_PLACEHOLDER = {'crmCompany': 'Companies',}

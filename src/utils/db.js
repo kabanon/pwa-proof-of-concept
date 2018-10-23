@@ -1,5 +1,5 @@
 import * as RxDB from 'rxdb';
-import { DB_SCHEMA_CRM_COMPANY } from './db_schema'
+import { DB_SCHEMA_CRM_COMPANY, DB_SCHEMA_CRM_PEOPLE } from './db_schema'
 
 RxDB.plugin(require('pouchdb-adapter-idb'));
 
@@ -17,6 +17,11 @@ const _create = async () => {
     await db.collection({
       name: 'company',
       schema: DB_SCHEMA_CRM_COMPANY
+    });
+    // create collection.
+    await db.collection({
+      name: 'people',
+      schema: DB_SCHEMA_CRM_PEOPLE
     });
     return db;
 }

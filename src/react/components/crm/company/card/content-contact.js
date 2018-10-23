@@ -5,7 +5,7 @@ import CrmCompanyCardContactHeader from './header-contact'
  * Company card.
  */
 const CrmCompanyCardContact = (props) => {
-    const { street, complementary_street, postal_code, city, country, responsible, tel, fax, email } = props
+    const { street, complementary_street, postal_code, city, country, manager, tel, fax, email } = props
     //
     // Render company summary card.
     //
@@ -13,13 +13,13 @@ const CrmCompanyCardContact = (props) => {
         <Card>
           <CrmCompanyCardContactHeader />
           <CardContent>
-            { responsible &&
+            { manager &&
               <div>
                 <Typography align="left" color="textSecondary">
                   Manager
                 </Typography>
                 <Typography align="left" component="p" gutterBottom>
-                  { responsible }
+                  { manager }
                 </Typography>
               </div>
             }

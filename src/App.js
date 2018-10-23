@@ -11,10 +11,15 @@ import CssBaseline from '@material-ui/core/CssBaseline';
 import Header from './react/components/header'
 // CRM Company - List
 import CrmCompanyList from './react/container/crm/company/list'
+// CRM People - List
+import CrmPeopleList from './react/container/crm/people/list'
 // CRM Company - View
 import CrmCompanyFull from './react/components/crm/company/full'
+// CRM People - View
+import CrmPeopleFull from './react/components/crm/people/full'
 
-import CrmCompanySyncComponent from './react/components/sync/crm/company'
+
+import SyncContainer from './react/container/sync'
 
 import './App.css';
 
@@ -33,9 +38,11 @@ class App extends Component {
           <div className="App">
             <Header />
             <div>
-              <Route exact path="/sync/crm/company" component={CrmCompanySyncComponent}/>
+              <Route exact path="/sync" component={SyncContainer}/>
               <Route exact path="/crm/company" component={CrmCompanyList}/>
               <Route exact path="/crm/company/:id" component={CrmCompanyFull}/>
+              <Route exact path="/crm/people" component={CrmPeopleList}/>
+              <Route exact path="/crm/people/:id" component={CrmPeopleFull}/>
             </div>
           </div>
         </BrowserRouter>

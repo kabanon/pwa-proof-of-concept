@@ -17,9 +17,10 @@ import NotificationsIcon from '@material-ui/icons/Notifications';
 
 import Drawer from '@material-ui/core/Drawer';
 import List from '@material-ui/core/List';
+import Divider from '@material-ui/core/Divider';
 
 
-import { RootItem, crmListItems } from './tileData';
+import { RootItem, crmListItems, syncItem } from './tileData';
 // import { NavLink } from "react-router-dom";
 // import {SEARCH_PLACEHOLDER} from '../../../const'
 
@@ -139,7 +140,10 @@ class NavigationComponent extends Component {
     const sideList = (
       <div className={classes.list}>
         <List>{RootItem}</List>
+        <Divider />
         <List>{crmListItems}</List>
+        <Divider />
+        <List>{syncItem}</List>
       </div>
     );
 

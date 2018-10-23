@@ -1,13 +1,13 @@
 import React from 'react';
 import axios from 'axios'
 import * as Database from '../../../../utils/db';
-import {API_URL_CRM_COMPANY, API_DEFAULT_REQUEST_PARAMS, API_DEFAULT_LIMIT } from '../../../../const/'
+import {API_URL_CRM_PEOPLE, API_DEFAULT_REQUEST_PARAMS, API_DEFAULT_LIMIT} from '../../../../const/'
 import SyncComponentLog from './log'
 
 /**
  * Manual Sync App.
  */
-class CrmCompanySyncComponent extends React.Component {
+class CrmPeopleSyncComponent extends React.Component {
   constructor(props) {
     super(props)
     this.state = {
@@ -19,17 +19,17 @@ class CrmCompanySyncComponent extends React.Component {
   componentDidMount() {
     // On mount, sync data with API if user is inline.
     if (navigator.onLine) {
-      this.syncCompanyCrm()
+      this.syncPeopleCrm()
     }
   }
   /**
-   * Sync company with HTTP requests.
+   * Sync people with HTTP requests.
    */
-  syncCompanyCrm() {
+  syncPeopleCrm() {
     const { dispatchStatus } = this.props
 
     this.setState({
-      op: ['Companies synchronization started.', ...this.state.op]
+      op: ['People synchronization started.', ...this.state.op]
     })
     let requests = []
     for(let i = 0; i < 1; i++) {
@@ -47,12 +47,11 @@ class CrmCompanySyncComponent extends React.Component {
       this.setState({
         op: ['All HTTP requests are successfully complete.', ...this.state.op]
       })
-
       // Upsert items in database.
       Database.get()
       .then( (db) => {
         this.setState({
-          op: ['Local company storage synchronization started.', ...this.state.op]
+          op: ['Local people storage synchronization started.', ...this.state.op]
         })
         return this.upsertItems(db, items)
       })
@@ -60,13 +59,13 @@ class CrmCompanySyncComponent extends React.Component {
         // Data are successfully upserted in db.
         this.setState({
           sync: 'finished',
-          op: ['Local company storage synchronization complete.', ...this.state.op]
+          op: ['Local people storage synchronization complete.', ...this.state.op]
         })
-        dispatchStatus('company')
+        dispatchStatus('people')
       })
       .catch( (error) => {
-        dispatchStatus('company')
         // An error has occurs.
+        dispatchStatus('people')
         return Promise.reject(error)
       })
     })
@@ -75,7 +74,7 @@ class CrmCompanySyncComponent extends React.Component {
         sync: 'failed',
         op: ['HTTP requests failed.', ...this.state.op]
       })
-      dispatchStatus('company')
+      dispatchStatus('people')
     })
   }
   /**
@@ -115,9 +114,9 @@ class CrmCompanySyncComponent extends React.Component {
       function (resolve, reject) {
         let promises = []
         const total = items.length
-        let message = `1 company to synchronize`
+        let message = `1 people to synchronize`
         if (total > 1) {
-          message = `${total} companies to synchronize`
+          message = `${total} people to synchronize`
         }
 
         object.setState({
@@ -125,7 +124,7 @@ class CrmCompanySyncComponent extends React.Component {
         })
 
         items.forEach( (item, key) => {
-          promises.push(db.collections.company.upsert(item))
+          promises.push(db.collections.people.upsert(item))
         })
         // TODO - How to log error ?
         Promise.all(promises)
@@ -143,7 +142,7 @@ class CrmCompanySyncComponent extends React.Component {
    */
   getAxiosRequest(offset, limit) {
     return axios({
-       url: API_URL_CRM_COMPANY,
+       url: API_URL_CRM_PEOPLE,
        method: 'get',
        params: {
          'page[offset]': offset,
@@ -155,13 +154,16 @@ class CrmCompanySyncComponent extends React.Component {
   /**
    * Render HTML.
    */
-  render() {
-    const { sync, op } = this.state
+   /**
+    * Render HTML.
+    */
+   render() {
+     const { sync, op } = this.state
 
-    return (
-      <SyncComponentLog title="Sync companies" logs={op} sync={sync} />
-    )
-  }
+     return (
+       <SyncComponentLog title="Sync people" logs={op} sync={sync} />
+     )
+   }
 }
 
-export default CrmCompanySyncComponent
+export default CrmPeopleSyncComponent;

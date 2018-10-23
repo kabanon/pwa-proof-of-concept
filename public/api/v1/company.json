@@ -16,7 +16,7 @@
       "city": "Germanton",
       "country": "France"
     },
-    "responsible": "Mckee NOBLE",
+    "manager": "Mckee NOBLE",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -42,7 +42,7 @@
       "city": "Crucible",
       "country": "France"
     },
-    "responsible": "Kitty RUTLEDGE",
+    "manager": "Kitty RUTLEDGE",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -68,7 +68,7 @@
       "city": "Otranto",
       "country": "France"
     },
-    "responsible": "Catalina VINSON",
+    "manager": "Catalina VINSON",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -94,7 +94,7 @@
       "city": "Homeworth",
       "country": "France"
     },
-    "responsible": "Salazar DANIELS",
+    "manager": "Salazar DANIELS",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -120,7 +120,7 @@
       "city": "Hayes",
       "country": "France"
     },
-    "responsible": "Zelma KANE",
+    "manager": "Zelma KANE",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -146,7 +146,7 @@
       "city": "Whitewater",
       "country": "France"
     },
-    "responsible": "Clara CARSON",
+    "manager": "Clara CARSON",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -172,7 +172,7 @@
       "city": "Forestburg",
       "country": "France"
     },
-    "responsible": "Alissa CASTRO",
+    "manager": "Alissa CASTRO",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -198,7 +198,7 @@
       "city": "Tibbie",
       "country": "France"
     },
-    "responsible": "Nichole KNOX",
+    "manager": "Nichole KNOX",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -224,7 +224,7 @@
       "city": "Lynn",
       "country": "France"
     },
-    "responsible": "Ray FRANKLIN",
+    "manager": "Ray FRANKLIN",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -250,7 +250,7 @@
       "city": "Farmington",
       "country": "France"
     },
-    "responsible": "Nannie WEBER",
+    "manager": "Nannie WEBER",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -276,7 +276,7 @@
       "city": "Boomer",
       "country": "France"
     },
-    "responsible": "Kirby MONTGOMERY",
+    "manager": "Kirby MONTGOMERY",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -302,7 +302,7 @@
       "city": "Riverton",
       "country": "France"
     },
-    "responsible": "Kelli GOODWIN",
+    "manager": "Kelli GOODWIN",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -328,7 +328,7 @@
       "city": "Chilton",
       "country": "France"
     },
-    "responsible": "England HARVEY",
+    "manager": "England HARVEY",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -354,7 +354,7 @@
       "city": "Monument",
       "country": "France"
     },
-    "responsible": "Dominique DICKSON",
+    "manager": "Dominique DICKSON",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -380,7 +380,7 @@
       "city": "Hegins",
       "country": "France"
     },
-    "responsible": "Brittany TUCKER",
+    "manager": "Brittany TUCKER",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -406,7 +406,7 @@
       "city": "Ahwahnee",
       "country": "France"
     },
-    "responsible": "Agnes MCCRAY",
+    "manager": "Agnes MCCRAY",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -432,7 +432,7 @@
       "city": "Sims",
       "country": "France"
     },
-    "responsible": "Jerry WEAVER",
+    "manager": "Jerry WEAVER",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -458,7 +458,7 @@
       "city": "Chicopee",
       "country": "France"
     },
-    "responsible": "Jannie CHRISTENSEN",
+    "manager": "Jannie CHRISTENSEN",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -484,7 +484,7 @@
       "city": "Greenock",
       "country": "France"
     },
-    "responsible": "Lora MELENDEZ",
+    "manager": "Lora MELENDEZ",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -510,7 +510,7 @@
       "city": "Ladera",
       "country": "France"
     },
-    "responsible": "Susana FLEMING",
+    "manager": "Susana FLEMING",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -536,7 +536,7 @@
       "city": "Sutton",
       "country": "France"
     },
-    "responsible": "Thomas PENNINGTON",
+    "manager": "Thomas PENNINGTON",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -562,7 +562,7 @@
       "city": "Evergreen",
       "country": "France"
     },
-    "responsible": "Alberta HOLT",
+    "manager": "Alberta HOLT",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -588,7 +588,7 @@
       "city": "Connerton",
       "country": "France"
     },
-    "responsible": "Woodard FITZPATRICK",
+    "manager": "Woodard FITZPATRICK",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -614,7 +614,7 @@
       "city": "Lavalette",
       "country": "France"
     },
-    "responsible": "Marshall LUCAS",
+    "manager": "Marshall LUCAS",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -640,7 +640,7 @@
       "city": "Brady",
       "country": "France"
     },
-    "responsible": "Maggie WALL",
+    "manager": "Maggie WALL",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -666,7 +666,7 @@
       "city": "Salvo",
       "country": "France"
     },
-    "responsible": "Mathis LOVE",
+    "manager": "Mathis LOVE",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -692,7 +692,7 @@
       "city": "Fingerville",
       "country": "France"
     },
-    "responsible": "Sharon PARRISH",
+    "manager": "Sharon PARRISH",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -718,7 +718,7 @@
       "city": "Wheatfields",
       "country": "France"
     },
-    "responsible": "Burt PALMER",
+    "manager": "Burt PALMER",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -744,7 +744,7 @@
       "city": "Sultana",
       "country": "France"
     },
-    "responsible": "Cohen LONG",
+    "manager": "Cohen LONG",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -770,7 +770,7 @@
       "city": "Clayville",
       "country": "France"
     },
-    "responsible": "Pearl FRANCIS",
+    "manager": "Pearl FRANCIS",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -796,7 +796,7 @@
       "city": "Skyland",
       "country": "France"
     },
-    "responsible": "Horn HERRING",
+    "manager": "Horn HERRING",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -822,7 +822,7 @@
       "city": "Orviston",
       "country": "France"
     },
-    "responsible": "Weaver HOGAN",
+    "manager": "Weaver HOGAN",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -848,7 +848,7 @@
       "city": "Loretto",
       "country": "France"
     },
-    "responsible": "Snow HUFF",
+    "manager": "Snow HUFF",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -874,7 +874,7 @@
       "city": "Blanco",
       "country": "France"
     },
-    "responsible": "Baird DOYLE",
+    "manager": "Baird DOYLE",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -900,7 +900,7 @@
       "city": "Axis",
       "country": "France"
     },
-    "responsible": "Lorie BUCHANAN",
+    "manager": "Lorie BUCHANAN",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -926,7 +926,7 @@
       "city": "Oretta",
       "country": "France"
     },
-    "responsible": "Sears FOWLER",
+    "manager": "Sears FOWLER",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -952,7 +952,7 @@
       "city": "Castleton",
       "country": "France"
     },
-    "responsible": "Vera ONEIL",
+    "manager": "Vera ONEIL",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -978,7 +978,7 @@
       "city": "Loyalhanna",
       "country": "France"
     },
-    "responsible": "Peggy FUENTES",
+    "manager": "Peggy FUENTES",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -1004,7 +1004,7 @@
       "city": "Groveville",
       "country": "France"
     },
-    "responsible": "Queen BARLOW",
+    "manager": "Queen BARLOW",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -1030,7 +1030,7 @@
       "city": "Leyner",
       "country": "France"
     },
-    "responsible": "Silva HINTON",
+    "manager": "Silva HINTON",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -1056,7 +1056,7 @@
       "city": "Lawrence",
       "country": "France"
     },
-    "responsible": "Stevenson DEJESUS",
+    "manager": "Stevenson DEJESUS",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -1082,7 +1082,7 @@
       "city": "Steinhatchee",
       "country": "France"
     },
-    "responsible": "Christina KENNEDY",
+    "manager": "Christina KENNEDY",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -1108,7 +1108,7 @@
       "city": "Tecolotito",
       "country": "France"
     },
-    "responsible": "Hampton LAMB",
+    "manager": "Hampton LAMB",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -1134,7 +1134,7 @@
       "city": "Datil",
       "country": "France"
     },
-    "responsible": "Cochran PECK",
+    "manager": "Cochran PECK",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -1160,7 +1160,7 @@
       "city": "Trucksville",
       "country": "France"
     },
-    "responsible": "Helga JARVIS",
+    "manager": "Helga JARVIS",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -1186,7 +1186,7 @@
       "city": "Brethren",
       "country": "France"
     },
-    "responsible": "Aileen NORRIS",
+    "manager": "Aileen NORRIS",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -1212,7 +1212,7 @@
       "city": "Caberfae",
       "country": "France"
     },
-    "responsible": "Katherine ROLLINS",
+    "manager": "Katherine ROLLINS",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -1238,7 +1238,7 @@
       "city": "Waiohinu",
       "country": "France"
     },
-    "responsible": "Munoz KIM",
+    "manager": "Munoz KIM",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -1264,7 +1264,7 @@
       "city": "Dyckesville",
       "country": "France"
     },
-    "responsible": "Fay DAVIDSON",
+    "manager": "Fay DAVIDSON",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -1290,7 +1290,7 @@
       "city": "Movico",
       "country": "France"
     },
-    "responsible": "Sonja HOOPER",
+    "manager": "Sonja HOOPER",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -1316,7 +1316,7 @@
       "city": "Bellamy",
       "country": "France"
     },
-    "responsible": "Petty HOWELL",
+    "manager": "Petty HOWELL",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -1342,7 +1342,7 @@
       "city": "Richville",
       "country": "France"
     },
-    "responsible": "Preston MULLEN",
+    "manager": "Preston MULLEN",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -1368,7 +1368,7 @@
       "city": "Kempton",
       "country": "France"
     },
-    "responsible": "Snider FINLEY",
+    "manager": "Snider FINLEY",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -1394,7 +1394,7 @@
       "city": "Collins",
       "country": "France"
     },
-    "responsible": "Katy LEON",
+    "manager": "Katy LEON",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -1420,7 +1420,7 @@
       "city": "Leroy",
       "country": "France"
     },
-    "responsible": "Kathie CASTILLO",
+    "manager": "Kathie CASTILLO",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -1446,7 +1446,7 @@
       "city": "Nanafalia",
       "country": "France"
     },
-    "responsible": "Shaw CHEN",
+    "manager": "Shaw CHEN",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -1472,7 +1472,7 @@
       "city": "Frierson",
       "country": "France"
     },
-    "responsible": "Mcmahon HOFFMAN",
+    "manager": "Mcmahon HOFFMAN",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -1498,7 +1498,7 @@
       "city": "Neahkahnie",
       "country": "France"
     },
-    "responsible": "Alba VASQUEZ",
+    "manager": "Alba VASQUEZ",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -1524,7 +1524,7 @@
       "city": "Hillsboro",
       "country": "France"
     },
-    "responsible": "Castaneda BROWNING",
+    "manager": "Castaneda BROWNING",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -1550,7 +1550,7 @@
       "city": "Austinburg",
       "country": "France"
     },
-    "responsible": "Eaton MAXWELL",
+    "manager": "Eaton MAXWELL",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -1576,7 +1576,7 @@
       "city": "Spokane",
       "country": "France"
     },
-    "responsible": "Riggs PARK",
+    "manager": "Riggs PARK",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -1602,7 +1602,7 @@
       "city": "Dalton",
       "country": "France"
     },
-    "responsible": "Lacey BRIDGES",
+    "manager": "Lacey BRIDGES",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -1628,7 +1628,7 @@
       "city": "Linwood",
       "country": "France"
     },
-    "responsible": "Dennis VALENZUELA",
+    "manager": "Dennis VALENZUELA",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -1654,7 +1654,7 @@
       "city": "Vernon",
       "country": "France"
     },
-    "responsible": "Adrienne FARMER",
+    "manager": "Adrienne FARMER",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -1680,7 +1680,7 @@
       "city": "Yettem",
       "country": "France"
     },
-    "responsible": "Rutledge ARMSTRONG",
+    "manager": "Rutledge ARMSTRONG",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -1706,7 +1706,7 @@
       "city": "Bennett",
       "country": "France"
     },
-    "responsible": "Sheena REYNOLDS",
+    "manager": "Sheena REYNOLDS",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -1732,7 +1732,7 @@
       "city": "Tyhee",
       "country": "France"
     },
-    "responsible": "Jan AYALA",
+    "manager": "Jan AYALA",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -1758,7 +1758,7 @@
       "city": "Riviera",
       "country": "France"
     },
-    "responsible": "Mathews GIBSON",
+    "manager": "Mathews GIBSON",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -1784,7 +1784,7 @@
       "city": "Falconaire",
       "country": "France"
     },
-    "responsible": "Bowman GAY",
+    "manager": "Bowman GAY",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -1810,7 +1810,7 @@
       "city": "Enlow",
       "country": "France"
     },
-    "responsible": "Mcknight SOLOMON",
+    "manager": "Mcknight SOLOMON",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -1836,7 +1836,7 @@
       "city": "Cornfields",
       "country": "France"
     },
-    "responsible": "Neva MORGAN",
+    "manager": "Neva MORGAN",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -1862,7 +1862,7 @@
       "city": "Yardville",
       "country": "France"
     },
-    "responsible": "Mooney MCCARTY",
+    "manager": "Mooney MCCARTY",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -1888,7 +1888,7 @@
       "city": "Bakersville",
       "country": "France"
     },
-    "responsible": "Bryan ALFORD",
+    "manager": "Bryan ALFORD",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -1914,7 +1914,7 @@
       "city": "Beyerville",
       "country": "France"
     },
-    "responsible": "Reynolds LANE",
+    "manager": "Reynolds LANE",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -1940,7 +1940,7 @@
       "city": "Bath",
       "country": "France"
     },
-    "responsible": "Norman MITCHELL",
+    "manager": "Norman MITCHELL",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -1966,7 +1966,7 @@
       "city": "Echo",
       "country": "France"
     },
-    "responsible": "Gilmore GROSS",
+    "manager": "Gilmore GROSS",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -1992,7 +1992,7 @@
       "city": "Fedora",
       "country": "France"
     },
-    "responsible": "Cora WEEKS",
+    "manager": "Cora WEEKS",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -2018,7 +2018,7 @@
       "city": "Ruckersville",
       "country": "France"
     },
-    "responsible": "Alyce WORKMAN",
+    "manager": "Alyce WORKMAN",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -2044,7 +2044,7 @@
       "city": "Caspar",
       "country": "France"
     },
-    "responsible": "Tanisha WISE",
+    "manager": "Tanisha WISE",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -2070,7 +2070,7 @@
       "city": "Wintersburg",
       "country": "France"
     },
-    "responsible": "Laurie WILCOX",
+    "manager": "Laurie WILCOX",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -2096,7 +2096,7 @@
       "city": "Cowiche",
       "country": "France"
     },
-    "responsible": "Helen HANEY",
+    "manager": "Helen HANEY",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -2122,7 +2122,7 @@
       "city": "Neibert",
       "country": "France"
     },
-    "responsible": "Geraldine TERRELL",
+    "manager": "Geraldine TERRELL",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -2148,7 +2148,7 @@
       "city": "Springville",
       "country": "France"
     },
-    "responsible": "Mills GENTRY",
+    "manager": "Mills GENTRY",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -2174,7 +2174,7 @@
       "city": "Sheatown",
       "country": "France"
     },
-    "responsible": "Tyson HOLLOWAY",
+    "manager": "Tyson HOLLOWAY",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -2200,7 +2200,7 @@
       "city": "Roeville",
       "country": "France"
     },
-    "responsible": "Combs MENDOZA",
+    "manager": "Combs MENDOZA",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -2226,7 +2226,7 @@
       "city": "Caroleen",
       "country": "France"
     },
-    "responsible": "Hyde DILLARD",
+    "manager": "Hyde DILLARD",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -2252,7 +2252,7 @@
       "city": "Clay",
       "country": "France"
     },
-    "responsible": "Pena BARNES",
+    "manager": "Pena BARNES",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -2278,7 +2278,7 @@
       "city": "Lindcove",
       "country": "France"
     },
-    "responsible": "Hollie OLIVER",
+    "manager": "Hollie OLIVER",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -2304,7 +2304,7 @@
       "city": "Takilma",
       "country": "France"
     },
-    "responsible": "Rowena BAUER",
+    "manager": "Rowena BAUER",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -2330,7 +2330,7 @@
       "city": "Dunlo",
       "country": "France"
     },
-    "responsible": "Carole BURKS",
+    "manager": "Carole BURKS",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -2356,7 +2356,7 @@
       "city": "Cumberland",
       "country": "France"
     },
-    "responsible": "Owens DELANEY",
+    "manager": "Owens DELANEY",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -2382,7 +2382,7 @@
       "city": "Glendale",
       "country": "France"
     },
-    "responsible": "Shannon BARRETT",
+    "manager": "Shannon BARRETT",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -2408,7 +2408,7 @@
       "city": "Linganore",
       "country": "France"
     },
-    "responsible": "Ruthie BRITT",
+    "manager": "Ruthie BRITT",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -2434,7 +2434,7 @@
       "city": "Wilsonia",
       "country": "France"
     },
-    "responsible": "Marissa LANG",
+    "manager": "Marissa LANG",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -2460,7 +2460,7 @@
       "city": "Calvary",
       "country": "France"
     },
-    "responsible": "Shannon TYSON",
+    "manager": "Shannon TYSON",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -2486,7 +2486,7 @@
       "city": "Jardine",
       "country": "France"
     },
-    "responsible": "Lila WRIGHT",
+    "manager": "Lila WRIGHT",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -2512,7 +2512,7 @@
       "city": "Interlochen",
       "country": "France"
     },
-    "responsible": "Rhoda HAMMOND",
+    "manager": "Rhoda HAMMOND",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -2538,7 +2538,7 @@
       "city": "Hamilton",
       "country": "France"
     },
-    "responsible": "Summers SIMPSON",
+    "manager": "Summers SIMPSON",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -2564,7 +2564,7 @@
       "city": "Beaverdale",
       "country": "France"
     },
-    "responsible": "Goodman BOND",
+    "manager": "Goodman BOND",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -2590,7 +2590,7 @@
       "city": "Eden",
       "country": "France"
     },
-    "responsible": "Gentry BAIRD",
+    "manager": "Gentry BAIRD",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -2616,7 +2616,7 @@
       "city": "Taft",
       "country": "France"
     },
-    "responsible": "Leonard KRAMER",
+    "manager": "Leonard KRAMER",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -2642,7 +2642,7 @@
       "city": "Crawfordsville",
       "country": "France"
     },
-    "responsible": "Sellers BRENNAN",
+    "manager": "Sellers BRENNAN",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -2668,7 +2668,7 @@
       "city": "Finzel",
       "country": "France"
     },
-    "responsible": "Alison GARZA",
+    "manager": "Alison GARZA",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -2694,7 +2694,7 @@
       "city": "Brooktrails",
       "country": "France"
     },
-    "responsible": "Miranda COLON",
+    "manager": "Miranda COLON",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -2720,7 +2720,7 @@
       "city": "Edenburg",
       "country": "France"
     },
-    "responsible": "Cardenas SWEENEY",
+    "manager": "Cardenas SWEENEY",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -2746,7 +2746,7 @@
       "city": "Marienthal",
       "country": "France"
     },
-    "responsible": "Dora POWERS",
+    "manager": "Dora POWERS",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -2772,7 +2772,7 @@
       "city": "Ruffin",
       "country": "France"
     },
-    "responsible": "Duffy PRINCE",
+    "manager": "Duffy PRINCE",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -2798,7 +2798,7 @@
       "city": "Gardners",
       "country": "France"
     },
-    "responsible": "Lilly HANCOCK",
+    "manager": "Lilly HANCOCK",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -2824,7 +2824,7 @@
       "city": "Dellview",
       "country": "France"
     },
-    "responsible": "Mccarthy JORDAN",
+    "manager": "Mccarthy JORDAN",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -2850,7 +2850,7 @@
       "city": "Snyderville",
       "country": "France"
     },
-    "responsible": "Farrell PHILLIPS",
+    "manager": "Farrell PHILLIPS",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -2876,7 +2876,7 @@
       "city": "Holtville",
       "country": "France"
     },
-    "responsible": "Doyle ROBERTS",
+    "manager": "Doyle ROBERTS",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -2902,7 +2902,7 @@
       "city": "Sylvanite",
       "country": "France"
     },
-    "responsible": "Nelda CASH",
+    "manager": "Nelda CASH",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -2928,7 +2928,7 @@
       "city": "Irwin",
       "country": "France"
     },
-    "responsible": "Sanders BURGESS",
+    "manager": "Sanders BURGESS",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -2954,7 +2954,7 @@
       "city": "Barronett",
       "country": "France"
     },
-    "responsible": "Fox COOK",
+    "manager": "Fox COOK",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -2980,7 +2980,7 @@
       "city": "Verdi",
       "country": "France"
     },
-    "responsible": "Kerry MORRISON",
+    "manager": "Kerry MORRISON",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -3006,7 +3006,7 @@
       "city": "Soham",
       "country": "France"
     },
-    "responsible": "Lindsey WEISS",
+    "manager": "Lindsey WEISS",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -3032,7 +3032,7 @@
       "city": "Logan",
       "country": "France"
     },
-    "responsible": "Renee NASH",
+    "manager": "Renee NASH",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -3058,7 +3058,7 @@
       "city": "Juntura",
       "country": "France"
     },
-    "responsible": "Adkins LLOYD",
+    "manager": "Adkins LLOYD",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -3084,7 +3084,7 @@
       "city": "Rockingham",
       "country": "France"
     },
-    "responsible": "Long BATTLE",
+    "manager": "Long BATTLE",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -3110,7 +3110,7 @@
       "city": "Magnolia",
       "country": "France"
     },
-    "responsible": "Alma WALSH",
+    "manager": "Alma WALSH",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -3136,7 +3136,7 @@
       "city": "Edgar",
       "country": "France"
     },
-    "responsible": "Caldwell BURCH",
+    "manager": "Caldwell BURCH",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -3162,7 +3162,7 @@
       "city": "Balm",
       "country": "France"
     },
-    "responsible": "Higgins STONE",
+    "manager": "Higgins STONE",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -3188,7 +3188,7 @@
       "city": "Salix",
       "country": "France"
     },
-    "responsible": "Carey KEY",
+    "manager": "Carey KEY",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -3214,7 +3214,7 @@
       "city": "Healy",
       "country": "France"
     },
-    "responsible": "Maura RAMSEY",
+    "manager": "Maura RAMSEY",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -3240,7 +3240,7 @@
       "city": "Vienna",
       "country": "France"
     },
-    "responsible": "Lori MERCER",
+    "manager": "Lori MERCER",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -3266,7 +3266,7 @@
       "city": "Accoville",
       "country": "France"
     },
-    "responsible": "Lottie MAYO",
+    "manager": "Lottie MAYO",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -3292,7 +3292,7 @@
       "city": "Baker",
       "country": "France"
     },
-    "responsible": "Leslie WARNER",
+    "manager": "Leslie WARNER",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -3318,7 +3318,7 @@
       "city": "Rosburg",
       "country": "France"
     },
-    "responsible": "Farmer DENNIS",
+    "manager": "Farmer DENNIS",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -3344,7 +3344,7 @@
       "city": "Kylertown",
       "country": "France"
     },
-    "responsible": "Orr GOFF",
+    "manager": "Orr GOFF",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -3370,7 +3370,7 @@
       "city": "Inkerman",
       "country": "France"
     },
-    "responsible": "Herring WOLFE",
+    "manager": "Herring WOLFE",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -3396,7 +3396,7 @@
       "city": "Whitmer",
       "country": "France"
     },
-    "responsible": "Cecilia WADE",
+    "manager": "Cecilia WADE",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -3422,7 +3422,7 @@
       "city": "Cleary",
       "country": "France"
     },
-    "responsible": "Henrietta MELTON",
+    "manager": "Henrietta MELTON",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -3448,7 +3448,7 @@
       "city": "Callaghan",
       "country": "France"
     },
-    "responsible": "Whitaker WALLACE",
+    "manager": "Whitaker WALLACE",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -3474,7 +3474,7 @@
       "city": "Bayview",
       "country": "France"
     },
-    "responsible": "Stark STANTON",
+    "manager": "Stark STANTON",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -3500,7 +3500,7 @@
       "city": "Rutherford",
       "country": "France"
     },
-    "responsible": "Nunez HEATH",
+    "manager": "Nunez HEATH",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -3526,7 +3526,7 @@
       "city": "Brule",
       "country": "France"
     },
-    "responsible": "Mccray RICE",
+    "manager": "Mccray RICE",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -3552,7 +3552,7 @@
       "city": "Leland",
       "country": "France"
     },
-    "responsible": "Weber FULLER",
+    "manager": "Weber FULLER",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -3578,7 +3578,7 @@
       "city": "Coalmont",
       "country": "France"
     },
-    "responsible": "Graham FERGUSON",
+    "manager": "Graham FERGUSON",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -3604,7 +3604,7 @@
       "city": "Grapeview",
       "country": "France"
     },
-    "responsible": "Acevedo VILLARREAL",
+    "manager": "Acevedo VILLARREAL",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -3630,7 +3630,7 @@
       "city": "Osmond",
       "country": "France"
     },
-    "responsible": "Corina PICKETT",
+    "manager": "Corina PICKETT",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -3656,7 +3656,7 @@
       "city": "Springdale",
       "country": "France"
     },
-    "responsible": "Wilder BLANCHARD",
+    "manager": "Wilder BLANCHARD",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -3682,7 +3682,7 @@
       "city": "Rodman",
       "country": "France"
     },
-    "responsible": "Nichols BARRON",
+    "manager": "Nichols BARRON",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -3708,7 +3708,7 @@
       "city": "Beason",
       "country": "France"
     },
-    "responsible": "Sweeney PITTS",
+    "manager": "Sweeney PITTS",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -3734,7 +3734,7 @@
       "city": "Tuskahoma",
       "country": "France"
     },
-    "responsible": "Jacqueline WITT",
+    "manager": "Jacqueline WITT",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -3760,7 +3760,7 @@
       "city": "Brookfield",
       "country": "France"
     },
-    "responsible": "Louisa DOMINGUEZ",
+    "manager": "Louisa DOMINGUEZ",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -3786,7 +3786,7 @@
       "city": "Devon",
       "country": "France"
     },
-    "responsible": "Staci BOLTON",
+    "manager": "Staci BOLTON",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -3812,7 +3812,7 @@
       "city": "Matheny",
       "country": "France"
     },
-    "responsible": "Rocha STEWART",
+    "manager": "Rocha STEWART",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -3838,7 +3838,7 @@
       "city": "Woodlake",
       "country": "France"
     },
-    "responsible": "Bonita SKINNER",
+    "manager": "Bonita SKINNER",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -3864,7 +3864,7 @@
       "city": "Turah",
       "country": "France"
     },
-    "responsible": "Fletcher WOODS",
+    "manager": "Fletcher WOODS",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -3890,7 +3890,7 @@
       "city": "Taycheedah",
       "country": "France"
     },
-    "responsible": "Katelyn STRONG",
+    "manager": "Katelyn STRONG",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -3916,7 +3916,7 @@
       "city": "Wildwood",
       "country": "France"
     },
-    "responsible": "Powers HEBERT",
+    "manager": "Powers HEBERT",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -3942,7 +3942,7 @@
       "city": "Celeryville",
       "country": "France"
     },
-    "responsible": "Hopkins ROBERTSON",
+    "manager": "Hopkins ROBERTSON",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -3968,7 +3968,7 @@
       "city": "Clinton",
       "country": "France"
     },
-    "responsible": "Suzette CRANE",
+    "manager": "Suzette CRANE",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -3994,7 +3994,7 @@
       "city": "Washington",
       "country": "France"
     },
-    "responsible": "Marisa CHURCH",
+    "manager": "Marisa CHURCH",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -4020,7 +4020,7 @@
       "city": "Dahlen",
       "country": "France"
     },
-    "responsible": "Johns WARREN",
+    "manager": "Johns WARREN",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -4046,7 +4046,7 @@
       "city": "Kapowsin",
       "country": "France"
     },
-    "responsible": "Guerra ROSARIO",
+    "manager": "Guerra ROSARIO",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -4072,7 +4072,7 @@
       "city": "Hinsdale",
       "country": "France"
     },
-    "responsible": "Jackie GILLIAM",
+    "manager": "Jackie GILLIAM",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -4098,7 +4098,7 @@
       "city": "Loomis",
       "country": "France"
     },
-    "responsible": "Ada NICHOLSON",
+    "manager": "Ada NICHOLSON",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -4124,7 +4124,7 @@
       "city": "Juarez",
       "country": "France"
     },
-    "responsible": "Knight BRADY",
+    "manager": "Knight BRADY",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -4150,7 +4150,7 @@
       "city": "Chamberino",
       "country": "France"
     },
-    "responsible": "Newman LOWERY",
+    "manager": "Newman LOWERY",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -4176,7 +4176,7 @@
       "city": "Calpine",
       "country": "France"
     },
-    "responsible": "Karina POTTS",
+    "manager": "Karina POTTS",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -4202,7 +4202,7 @@
       "city": "Chesterfield",
       "country": "France"
     },
-    "responsible": "Gloria NORMAN",
+    "manager": "Gloria NORMAN",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -4228,7 +4228,7 @@
       "city": "Vincent",
       "country": "France"
     },
-    "responsible": "Jo KIRBY",
+    "manager": "Jo KIRBY",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -4254,7 +4254,7 @@
       "city": "Wauhillau",
       "country": "France"
     },
-    "responsible": "Rosa CERVANTES",
+    "manager": "Rosa CERVANTES",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -4280,7 +4280,7 @@
       "city": "Franklin",
       "country": "France"
     },
-    "responsible": "Harris SLATER",
+    "manager": "Harris SLATER",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -4306,7 +4306,7 @@
       "city": "Bend",
       "country": "France"
     },
-    "responsible": "Hester CLARKE",
+    "manager": "Hester CLARKE",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -4332,7 +4332,7 @@
       "city": "Oasis",
       "country": "France"
     },
-    "responsible": "Jean PETERS",
+    "manager": "Jean PETERS",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -4358,7 +4358,7 @@
       "city": "Savannah",
       "country": "France"
     },
-    "responsible": "Parsons MOSES",
+    "manager": "Parsons MOSES",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -4384,7 +4384,7 @@
       "city": "Wilmington",
       "country": "France"
     },
-    "responsible": "Herman SANTANA",
+    "manager": "Herman SANTANA",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -4410,7 +4410,7 @@
       "city": "Bergoo",
       "country": "France"
     },
-    "responsible": "Emily HURST",
+    "manager": "Emily HURST",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -4436,7 +4436,7 @@
       "city": "Roland",
       "country": "France"
     },
-    "responsible": "Roxie BEASLEY",
+    "manager": "Roxie BEASLEY",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -4462,7 +4462,7 @@
       "city": "Concho",
       "country": "France"
     },
-    "responsible": "Erika FRAZIER",
+    "manager": "Erika FRAZIER",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -4488,7 +4488,7 @@
       "city": "Russellville",
       "country": "France"
     },
-    "responsible": "Angela WINTERS",
+    "manager": "Angela WINTERS",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -4514,7 +4514,7 @@
       "city": "Marion",
       "country": "France"
     },
-    "responsible": "Dickson TRAVIS",
+    "manager": "Dickson TRAVIS",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -4540,7 +4540,7 @@
       "city": "Leola",
       "country": "France"
     },
-    "responsible": "Alston TATE",
+    "manager": "Alston TATE",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -4566,7 +4566,7 @@
       "city": "Maxville",
       "country": "France"
     },
-    "responsible": "Amber COFFEY",
+    "manager": "Amber COFFEY",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -4592,7 +4592,7 @@
       "city": "Swartzville",
       "country": "France"
     },
-    "responsible": "Lesa PACE",
+    "manager": "Lesa PACE",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -4618,7 +4618,7 @@
       "city": "Thatcher",
       "country": "France"
     },
-    "responsible": "Lara WATERS",
+    "manager": "Lara WATERS",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -4644,7 +4644,7 @@
       "city": "Blackgum",
       "country": "France"
     },
-    "responsible": "Church BURRIS",
+    "manager": "Church BURRIS",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -4670,7 +4670,7 @@
       "city": "Cataract",
       "country": "France"
     },
-    "responsible": "Christian ROTH",
+    "manager": "Christian ROTH",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -4696,7 +4696,7 @@
       "city": "Coventry",
       "country": "France"
     },
-    "responsible": "Selena MCKINNEY",
+    "manager": "Selena MCKINNEY",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -4722,7 +4722,7 @@
       "city": "Century",
       "country": "France"
     },
-    "responsible": "Leigh SWANSON",
+    "manager": "Leigh SWANSON",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -4748,7 +4748,7 @@
       "city": "Waikele",
       "country": "France"
     },
-    "responsible": "Franks POTTER",
+    "manager": "Franks POTTER",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -4774,7 +4774,7 @@
       "city": "Hannasville",
       "country": "France"
     },
-    "responsible": "Burton MULLINS",
+    "manager": "Burton MULLINS",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -4800,7 +4800,7 @@
       "city": "Williamson",
       "country": "France"
     },
-    "responsible": "Naomi GUERRA",
+    "manager": "Naomi GUERRA",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -4826,7 +4826,7 @@
       "city": "Tyro",
       "country": "France"
     },
-    "responsible": "Tasha HERRERA",
+    "manager": "Tasha HERRERA",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -4852,7 +4852,7 @@
       "city": "Mahtowa",
       "country": "France"
     },
-    "responsible": "Jeannette MOON",
+    "manager": "Jeannette MOON",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -4878,7 +4878,7 @@
       "city": "Chalfant",
       "country": "France"
     },
-    "responsible": "Kristi NOLAN",
+    "manager": "Kristi NOLAN",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -4904,7 +4904,7 @@
       "city": "Edgewater",
       "country": "France"
     },
-    "responsible": "Paulette KOCH",
+    "manager": "Paulette KOCH",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -4930,7 +4930,7 @@
       "city": "Cornucopia",
       "country": "France"
     },
-    "responsible": "Whitley MCCONNELL",
+    "manager": "Whitley MCCONNELL",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -4956,7 +4956,7 @@
       "city": "Cascades",
       "country": "France"
     },
-    "responsible": "Santana ROGERS",
+    "manager": "Santana ROGERS",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -4982,7 +4982,7 @@
       "city": "Camptown",
       "country": "France"
     },
-    "responsible": "Bailey RANDALL",
+    "manager": "Bailey RANDALL",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -5008,7 +5008,7 @@
       "city": "Stollings",
       "country": "France"
     },
-    "responsible": "Merle CONTRERAS",
+    "manager": "Merle CONTRERAS",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -5034,7 +5034,7 @@
       "city": "Machias",
       "country": "France"
     },
-    "responsible": "Peck AGUILAR",
+    "manager": "Peck AGUILAR",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -5060,7 +5060,7 @@
       "city": "Gorst",
       "country": "France"
     },
-    "responsible": "Warner MCGUIRE",
+    "manager": "Warner MCGUIRE",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -5086,7 +5086,7 @@
       "city": "Ribera",
       "country": "France"
     },
-    "responsible": "Mclaughlin MCLEOD",
+    "manager": "Mclaughlin MCLEOD",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -5112,7 +5112,7 @@
       "city": "Boykin",
       "country": "France"
     },
-    "responsible": "Sherman SUTTON",
+    "manager": "Sherman SUTTON",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -5138,7 +5138,7 @@
       "city": "Outlook",
       "country": "France"
     },
-    "responsible": "Brooke SANFORD",
+    "manager": "Brooke SANFORD",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -5164,7 +5164,7 @@
       "city": "Ventress",
       "country": "France"
     },
-    "responsible": "Blackwell CHRISTIAN",
+    "manager": "Blackwell CHRISTIAN",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -5190,7 +5190,7 @@
       "city": "Suitland",
       "country": "France"
     },
-    "responsible": "Morton GILL",
+    "manager": "Morton GILL",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -5216,7 +5216,7 @@
       "city": "Iola",
       "country": "France"
     },
-    "responsible": "Minnie VAUGHAN",
+    "manager": "Minnie VAUGHAN",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -5242,7 +5242,7 @@
       "city": "Wattsville",
       "country": "France"
     },
-    "responsible": "Odonnell BERG",
+    "manager": "Odonnell BERG",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -5268,7 +5268,7 @@
       "city": "Slovan",
       "country": "France"
     },
-    "responsible": "Tanner ONEAL",
+    "manager": "Tanner ONEAL",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -5294,7 +5294,7 @@
       "city": "Wedgewood",
       "country": "France"
     },
-    "responsible": "Henderson GALLEGOS",
+    "manager": "Henderson GALLEGOS",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -5320,7 +5320,7 @@
       "city": "Martinsville",
       "country": "France"
     },
-    "responsible": "Hinton STAFFORD",
+    "manager": "Hinton STAFFORD",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -5346,7 +5346,7 @@
       "city": "Matthews",
       "country": "France"
     },
-    "responsible": "Paul WEBSTER",
+    "manager": "Paul WEBSTER",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -5372,7 +5372,7 @@
       "city": "Dexter",
       "country": "France"
     },
-    "responsible": "Marva PITTMAN",
+    "manager": "Marva PITTMAN",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -5398,7 +5398,7 @@
       "city": "Retsof",
       "country": "France"
     },
-    "responsible": "Alexis FROST",
+    "manager": "Alexis FROST",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -5424,7 +5424,7 @@
       "city": "Riegelwood",
       "country": "France"
     },
-    "responsible": "Alexandra DUNCAN",
+    "manager": "Alexandra DUNCAN",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -5450,7 +5450,7 @@
       "city": "Rockhill",
       "country": "France"
     },
-    "responsible": "Sweet HOLLAND",
+    "manager": "Sweet HOLLAND",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -5476,7 +5476,7 @@
       "city": "Helen",
       "country": "France"
     },
-    "responsible": "Isabella ELLIOTT",
+    "manager": "Isabella ELLIOTT",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -5502,7 +5502,7 @@
       "city": "Smock",
       "country": "France"
     },
-    "responsible": "Sanford SANDOVAL",
+    "manager": "Sanford SANDOVAL",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -5528,7 +5528,7 @@
       "city": "Savage",
       "country": "France"
     },
-    "responsible": "Greer TRAN",
+    "manager": "Greer TRAN",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -5554,7 +5554,7 @@
       "city": "Canoochee",
       "country": "France"
     },
-    "responsible": "Patrick GRAVES",
+    "manager": "Patrick GRAVES",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -5580,7 +5580,7 @@
       "city": "Condon",
       "country": "France"
     },
-    "responsible": "Mia FERRELL",
+    "manager": "Mia FERRELL",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -5606,7 +5606,7 @@
       "city": "Grill",
       "country": "France"
     },
-    "responsible": "Cherie BRADFORD",
+    "manager": "Cherie BRADFORD",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -5632,7 +5632,7 @@
       "city": "Belva",
       "country": "France"
     },
-    "responsible": "Sadie ALBERT",
+    "manager": "Sadie ALBERT",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -5658,7 +5658,7 @@
       "city": "Tilden",
       "country": "France"
     },
-    "responsible": "Wolf WARE",
+    "manager": "Wolf WARE",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -5684,7 +5684,7 @@
       "city": "Roulette",
       "country": "France"
     },
-    "responsible": "Moran ELLISON",
+    "manager": "Moran ELLISON",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -5710,7 +5710,7 @@
       "city": "Denio",
       "country": "France"
     },
-    "responsible": "Stein CAIN",
+    "manager": "Stein CAIN",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -5736,7 +5736,7 @@
       "city": "Stockwell",
       "country": "France"
     },
-    "responsible": "Kane HEAD",
+    "manager": "Kane HEAD",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -5762,7 +5762,7 @@
       "city": "Jennings",
       "country": "France"
     },
-    "responsible": "Terrie HAHN",
+    "manager": "Terrie HAHN",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -5788,7 +5788,7 @@
       "city": "Zeba",
       "country": "France"
     },
-    "responsible": "Mosley NEAL",
+    "manager": "Mosley NEAL",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -5814,7 +5814,7 @@
       "city": "Ivanhoe",
       "country": "France"
     },
-    "responsible": "Darlene FERNANDEZ",
+    "manager": "Darlene FERNANDEZ",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -5840,7 +5840,7 @@
       "city": "Wells",
       "country": "France"
     },
-    "responsible": "Gill DIXON",
+    "manager": "Gill DIXON",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -5866,7 +5866,7 @@
       "city": "Statenville",
       "country": "France"
     },
-    "responsible": "Mccoy PETTY",
+    "manager": "Mccoy PETTY",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -5892,7 +5892,7 @@
       "city": "Stewartville",
       "country": "France"
     },
-    "responsible": "Wallace GOODMAN",
+    "manager": "Wallace GOODMAN",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -5918,7 +5918,7 @@
       "city": "Alafaya",
       "country": "France"
     },
-    "responsible": "Malinda GEORGE",
+    "manager": "Malinda GEORGE",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -5944,7 +5944,7 @@
       "city": "Coinjock",
       "country": "France"
     },
-    "responsible": "Dee MCCARTHY",
+    "manager": "Dee MCCARTHY",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -5970,7 +5970,7 @@
       "city": "Fairlee",
       "country": "France"
     },
-    "responsible": "Kris HORTON",
+    "manager": "Kris HORTON",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -5996,7 +5996,7 @@
       "city": "Indio",
       "country": "France"
     },
-    "responsible": "Phillips PRATT",
+    "manager": "Phillips PRATT",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -6022,7 +6022,7 @@
       "city": "Cawood",
       "country": "France"
     },
-    "responsible": "Cortez GRANT",
+    "manager": "Cortez GRANT",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -6048,7 +6048,7 @@
       "city": "Elliott",
       "country": "France"
     },
-    "responsible": "Lester KELLER",
+    "manager": "Lester KELLER",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -6074,7 +6074,7 @@
       "city": "Ryderwood",
       "country": "France"
     },
-    "responsible": "Ramsey NEWMAN",
+    "manager": "Ramsey NEWMAN",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -6100,7 +6100,7 @@
       "city": "Fairmount",
       "country": "France"
     },
-    "responsible": "Rowland CALDERON",
+    "manager": "Rowland CALDERON",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -6126,7 +6126,7 @@
       "city": "Ronco",
       "country": "France"
     },
-    "responsible": "Sonia RICHARDS",
+    "manager": "Sonia RICHARDS",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -6152,7 +6152,7 @@
       "city": "Blende",
       "country": "France"
     },
-    "responsible": "Wong HART",
+    "manager": "Wong HART",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -6178,7 +6178,7 @@
       "city": "Abrams",
       "country": "France"
     },
-    "responsible": "Walton SANDERS",
+    "manager": "Walton SANDERS",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -6204,7 +6204,7 @@
       "city": "Garfield",
       "country": "France"
     },
-    "responsible": "Mcconnell MEYER",
+    "manager": "Mcconnell MEYER",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -6230,7 +6230,7 @@
       "city": "Guilford",
       "country": "France"
     },
-    "responsible": "Allison FIELDS",
+    "manager": "Allison FIELDS",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -6256,7 +6256,7 @@
       "city": "Glenbrook",
       "country": "France"
     },
-    "responsible": "Kemp ALLISON",
+    "manager": "Kemp ALLISON",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -6282,7 +6282,7 @@
       "city": "Herald",
       "country": "France"
     },
-    "responsible": "Suzanne MCNEIL",
+    "manager": "Suzanne MCNEIL",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -6308,7 +6308,7 @@
       "city": "Mammoth",
       "country": "France"
     },
-    "responsible": "Natalia WILLIS",
+    "manager": "Natalia WILLIS",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -6334,7 +6334,7 @@
       "city": "Rodanthe",
       "country": "France"
     },
-    "responsible": "Glass STRICKLAND",
+    "manager": "Glass STRICKLAND",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -6360,7 +6360,7 @@
       "city": "Winston",
       "country": "France"
     },
-    "responsible": "Iva OCONNOR",
+    "manager": "Iva OCONNOR",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -6386,7 +6386,7 @@
       "city": "Crumpler",
       "country": "France"
     },
-    "responsible": "Daniel OCHOA",
+    "manager": "Daniel OCHOA",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -6412,7 +6412,7 @@
       "city": "Elliston",
       "country": "France"
     },
-    "responsible": "Consuelo SPEARS",
+    "manager": "Consuelo SPEARS",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -6438,7 +6438,7 @@
       "city": "Woodlands",
       "country": "France"
     },
-    "responsible": "Gwen STEPHENSON",
+    "manager": "Gwen STEPHENSON",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -6464,7 +6464,7 @@
       "city": "Bentley",
       "country": "France"
     },
-    "responsible": "Shepherd CLEMONS",
+    "manager": "Shepherd CLEMONS",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -6490,7 +6490,7 @@
       "city": "Lupton",
       "country": "France"
     },
-    "responsible": "Jennings HARDY",
+    "manager": "Jennings HARDY",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -6516,7 +6516,7 @@
       "city": "Fairview",
       "country": "France"
     },
-    "responsible": "Hodge SCHROEDER",
+    "manager": "Hodge SCHROEDER",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -6542,7 +6542,7 @@
       "city": "Hachita",
       "country": "France"
     },
-    "responsible": "Evangelina ANDREWS",
+    "manager": "Evangelina ANDREWS",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -6568,7 +6568,7 @@
       "city": "Mayfair",
       "country": "France"
     },
-    "responsible": "Elisa SERRANO",
+    "manager": "Elisa SERRANO",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -6594,7 +6594,7 @@
       "city": "Joes",
       "country": "France"
     },
-    "responsible": "Hattie WILSON",
+    "manager": "Hattie WILSON",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -6620,7 +6620,7 @@
       "city": "Belgreen",
       "country": "France"
     },
-    "responsible": "Gross DAWSON",
+    "manager": "Gross DAWSON",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -6646,7 +6646,7 @@
       "city": "Walker",
       "country": "France"
     },
-    "responsible": "Fields BARR",
+    "manager": "Fields BARR",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -6672,7 +6672,7 @@
       "city": "Farmers",
       "country": "France"
     },
-    "responsible": "Ashley DIAZ",
+    "manager": "Ashley DIAZ",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -6698,7 +6698,7 @@
       "city": "Belvoir",
       "country": "France"
     },
-    "responsible": "Juliet OSBORN",
+    "manager": "Juliet OSBORN",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -6724,7 +6724,7 @@
       "city": "Loma",
       "country": "France"
     },
-    "responsible": "Valarie DANIEL",
+    "manager": "Valarie DANIEL",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -6750,7 +6750,7 @@
       "city": "Wescosville",
       "country": "France"
     },
-    "responsible": "Carney STEELE",
+    "manager": "Carney STEELE",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -6776,7 +6776,7 @@
       "city": "Eureka",
       "country": "France"
     },
-    "responsible": "Frank SNIDER",
+    "manager": "Frank SNIDER",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -6802,7 +6802,7 @@
       "city": "Sugartown",
       "country": "France"
     },
-    "responsible": "Nancy WASHINGTON",
+    "manager": "Nancy WASHINGTON",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -6828,7 +6828,7 @@
       "city": "Greenfields",
       "country": "France"
     },
-    "responsible": "Aisha LEACH",
+    "manager": "Aisha LEACH",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -6854,7 +6854,7 @@
       "city": "Chase",
       "country": "France"
     },
-    "responsible": "Velasquez MENDEZ",
+    "manager": "Velasquez MENDEZ",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -6880,7 +6880,7 @@
       "city": "Rosewood",
       "country": "France"
     },
-    "responsible": "Sophie PARKS",
+    "manager": "Sophie PARKS",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -6906,7 +6906,7 @@
       "city": "Brutus",
       "country": "France"
     },
-    "responsible": "Marcella ALLEN",
+    "manager": "Marcella ALLEN",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -6932,7 +6932,7 @@
       "city": "Wheaton",
       "country": "France"
     },
-    "responsible": "Krystal HARTMAN",
+    "manager": "Krystal HARTMAN",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -6958,7 +6958,7 @@
       "city": "Glidden",
       "country": "France"
     },
-    "responsible": "Rosemary TODD",
+    "manager": "Rosemary TODD",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -6984,7 +6984,7 @@
       "city": "Ripley",
       "country": "France"
     },
-    "responsible": "Essie MCCORMICK",
+    "manager": "Essie MCCORMICK",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -7010,7 +7010,7 @@
       "city": "Tivoli",
       "country": "France"
     },
-    "responsible": "Sabrina OSBORNE",
+    "manager": "Sabrina OSBORNE",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -7036,7 +7036,7 @@
       "city": "Bluffview",
       "country": "France"
     },
-    "responsible": "Casandra LYNCH",
+    "manager": "Casandra LYNCH",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -7062,7 +7062,7 @@
       "city": "Kingstowne",
       "country": "France"
     },
-    "responsible": "Blair FORD",
+    "manager": "Blair FORD",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -7088,7 +7088,7 @@
       "city": "Lacomb",
       "country": "France"
     },
-    "responsible": "Jewel ALSTON",
+    "manager": "Jewel ALSTON",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -7114,7 +7114,7 @@
       "city": "Reno",
       "country": "France"
     },
-    "responsible": "Mai COLLIER",
+    "manager": "Mai COLLIER",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -7140,7 +7140,7 @@
       "city": "Kersey",
       "country": "France"
     },
-    "responsible": "Shelley TORRES",
+    "manager": "Shelley TORRES",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -7166,7 +7166,7 @@
       "city": "Sperryville",
       "country": "France"
     },
-    "responsible": "Luna COHEN",
+    "manager": "Luna COHEN",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -7192,7 +7192,7 @@
       "city": "Allison",
       "country": "France"
     },
-    "responsible": "Cassie KLINE",
+    "manager": "Cassie KLINE",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -7218,7 +7218,7 @@
       "city": "Delshire",
       "country": "France"
     },
-    "responsible": "Boyer GREENE",
+    "manager": "Boyer GREENE",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -7244,7 +7244,7 @@
       "city": "Umapine",
       "country": "France"
     },
-    "responsible": "Hodges BURTON",
+    "manager": "Hodges BURTON",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -7270,7 +7270,7 @@
       "city": "Breinigsville",
       "country": "France"
     },
-    "responsible": "Elise WHITEHEAD",
+    "manager": "Elise WHITEHEAD",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -7296,7 +7296,7 @@
       "city": "Navarre",
       "country": "France"
     },
-    "responsible": "Wiley VEGA",
+    "manager": "Wiley VEGA",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -7322,7 +7322,7 @@
       "city": "Bourg",
       "country": "France"
     },
-    "responsible": "Ruiz GRIFFIN",
+    "manager": "Ruiz GRIFFIN",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -7348,7 +7348,7 @@
       "city": "Rushford",
       "country": "France"
     },
-    "responsible": "Estes PRESTON",
+    "manager": "Estes PRESTON",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -7374,7 +7374,7 @@
       "city": "Malott",
       "country": "France"
     },
-    "responsible": "Garrett RATLIFF",
+    "manager": "Garrett RATLIFF",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -7400,7 +7400,7 @@
       "city": "Kerby",
       "country": "France"
     },
-    "responsible": "Aurora CARROLL",
+    "manager": "Aurora CARROLL",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -7426,7 +7426,7 @@
       "city": "Glenville",
       "country": "France"
     },
-    "responsible": "Billie BISHOP",
+    "manager": "Billie BISHOP",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -7452,7 +7452,7 @@
       "city": "Hasty",
       "country": "France"
     },
-    "responsible": "Maynard FRENCH",
+    "manager": "Maynard FRENCH",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -7478,7 +7478,7 @@
       "city": "Bluetown",
       "country": "France"
     },
-    "responsible": "Alicia SHANNON",
+    "manager": "Alicia SHANNON",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -7504,7 +7504,7 @@
       "city": "Hemlock",
       "country": "France"
     },
-    "responsible": "Aida MERRILL",
+    "manager": "Aida MERRILL",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -7530,7 +7530,7 @@
       "city": "Nettie",
       "country": "France"
     },
-    "responsible": "Terry DECKER",
+    "manager": "Terry DECKER",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -7556,7 +7556,7 @@
       "city": "Murillo",
       "country": "France"
     },
-    "responsible": "Snyder OLSEN",
+    "manager": "Snyder OLSEN",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -7582,7 +7582,7 @@
       "city": "Dola",
       "country": "France"
     },
-    "responsible": "Duke HOWARD",
+    "manager": "Duke HOWARD",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -7608,7 +7608,7 @@
       "city": "Shindler",
       "country": "France"
     },
-    "responsible": "Fitzpatrick SALAZAR",
+    "manager": "Fitzpatrick SALAZAR",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -7634,7 +7634,7 @@
       "city": "Southview",
       "country": "France"
     },
-    "responsible": "Dorsey BLEVINS",
+    "manager": "Dorsey BLEVINS",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -7660,7 +7660,7 @@
       "city": "Wadsworth",
       "country": "France"
     },
-    "responsible": "Lynn SAVAGE",
+    "manager": "Lynn SAVAGE",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -7686,7 +7686,7 @@
       "city": "Shelby",
       "country": "France"
     },
-    "responsible": "Avery BLAIR",
+    "manager": "Avery BLAIR",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -7712,7 +7712,7 @@
       "city": "Eastvale",
       "country": "France"
     },
-    "responsible": "Owen MORENO",
+    "manager": "Owen MORENO",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -7738,7 +7738,7 @@
       "city": "Gila",
       "country": "France"
     },
-    "responsible": "Luella LINDSAY",
+    "manager": "Luella LINDSAY",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -7764,7 +7764,7 @@
       "city": "Goochland",
       "country": "France"
     },
-    "responsible": "Wells JACKSON",
+    "manager": "Wells JACKSON",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -7790,7 +7790,7 @@
       "city": "Masthope",
       "country": "France"
     },
-    "responsible": "Rosetta CHAN",
+    "manager": "Rosetta CHAN",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -7816,7 +7816,7 @@
       "city": "Muse",
       "country": "France"
     },
-    "responsible": "Velazquez CANNON",
+    "manager": "Velazquez CANNON",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -7842,7 +7842,7 @@
       "city": "Waterford",
       "country": "France"
     },
-    "responsible": "Knox BENNETT",
+    "manager": "Knox BENNETT",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -7868,7 +7868,7 @@
       "city": "Rivers",
       "country": "France"
     },
-    "responsible": "Gilda SHORT",
+    "manager": "Gilda SHORT",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -7894,7 +7894,7 @@
       "city": "Omar",
       "country": "France"
     },
-    "responsible": "Russell GREEN",
+    "manager": "Russell GREEN",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -7920,7 +7920,7 @@
       "city": "Fowlerville",
       "country": "France"
     },
-    "responsible": "Romero COLEMAN",
+    "manager": "Romero COLEMAN",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -7946,7 +7946,7 @@
       "city": "Darlington",
       "country": "France"
     },
-    "responsible": "Wilda YATES",
+    "manager": "Wilda YATES",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -7972,7 +7972,7 @@
       "city": "Henrietta",
       "country": "France"
     },
-    "responsible": "Melody BOYD",
+    "manager": "Melody BOYD",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -7998,7 +7998,7 @@
       "city": "Snowville",
       "country": "France"
     },
-    "responsible": "Kasey WALTER",
+    "manager": "Kasey WALTER",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -8024,7 +8024,7 @@
       "city": "Calverton",
       "country": "France"
     },
-    "responsible": "Genevieve UNDERWOOD",
+    "manager": "Genevieve UNDERWOOD",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -8050,7 +8050,7 @@
       "city": "Kraemer",
       "country": "France"
     },
-    "responsible": "Kerr CHANDLER",
+    "manager": "Kerr CHANDLER",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -8076,7 +8076,7 @@
       "city": "Orick",
       "country": "France"
     },
-    "responsible": "Nadine WHITLEY",
+    "manager": "Nadine WHITLEY",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -8102,7 +8102,7 @@
       "city": "Allamuchy",
       "country": "France"
     },
-    "responsible": "Griffin PENA",
+    "manager": "Griffin PENA",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -8128,7 +8128,7 @@
       "city": "Adelino",
       "country": "France"
     },
-    "responsible": "Harvey ROCHA",
+    "manager": "Harvey ROCHA",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -8154,7 +8154,7 @@
       "city": "Fredericktown",
       "country": "France"
     },
-    "responsible": "Gilliam SAWYER",
+    "manager": "Gilliam SAWYER",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -8180,7 +8180,7 @@
       "city": "Dana",
       "country": "France"
     },
-    "responsible": "Rosalie YOUNG",
+    "manager": "Rosalie YOUNG",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -8206,7 +8206,7 @@
       "city": "Zarephath",
       "country": "France"
     },
-    "responsible": "Moody WELCH",
+    "manager": "Moody WELCH",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -8232,7 +8232,7 @@
       "city": "Dixie",
       "country": "France"
     },
-    "responsible": "Melva BLANKENSHIP",
+    "manager": "Melva BLANKENSHIP",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -8258,7 +8258,7 @@
       "city": "Tuttle",
       "country": "France"
     },
-    "responsible": "Allison SANTOS",
+    "manager": "Allison SANTOS",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -8284,7 +8284,7 @@
       "city": "Klondike",
       "country": "France"
     },
-    "responsible": "Casey MARKS",
+    "manager": "Casey MARKS",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -8310,7 +8310,7 @@
       "city": "Lopezo",
       "country": "France"
     },
-    "responsible": "Barrera MANN",
+    "manager": "Barrera MANN",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -8336,7 +8336,7 @@
       "city": "Canterwood",
       "country": "France"
     },
-    "responsible": "Susie INGRAM",
+    "manager": "Susie INGRAM",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -8362,7 +8362,7 @@
       "city": "Carrsville",
       "country": "France"
     },
-    "responsible": "Linda LAWRENCE",
+    "manager": "Linda LAWRENCE",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -8388,7 +8388,7 @@
       "city": "Cade",
       "country": "France"
     },
-    "responsible": "Tran FIGUEROA",
+    "manager": "Tran FIGUEROA",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -8414,7 +8414,7 @@
       "city": "Bowden",
       "country": "France"
     },
-    "responsible": "Moon POLLARD",
+    "manager": "Moon POLLARD",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -8440,7 +8440,7 @@
       "city": "Wikieup",
       "country": "France"
     },
-    "responsible": "Kristine HURLEY",
+    "manager": "Kristine HURLEY",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -8466,7 +8466,7 @@
       "city": "Trail",
       "country": "France"
     },
-    "responsible": "Nelson WALLER",
+    "manager": "Nelson WALLER",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -8492,7 +8492,7 @@
       "city": "Rossmore",
       "country": "France"
     },
-    "responsible": "Welch CAMACHO",
+    "manager": "Welch CAMACHO",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -8518,7 +8518,7 @@
       "city": "Cresaptown",
       "country": "France"
     },
-    "responsible": "Dejesus DORSEY",
+    "manager": "Dejesus DORSEY",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -8544,7 +8544,7 @@
       "city": "Kilbourne",
       "country": "France"
     },
-    "responsible": "Roberta HUNTER",
+    "manager": "Roberta HUNTER",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -8570,7 +8570,7 @@
       "city": "Coleville",
       "country": "France"
     },
-    "responsible": "Parks KELLEY",
+    "manager": "Parks KELLEY",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -8596,7 +8596,7 @@
       "city": "Katonah",
       "country": "France"
     },
-    "responsible": "Candy COOKE",
+    "manager": "Candy COOKE",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -8622,7 +8622,7 @@
       "city": "Nadine",
       "country": "France"
     },
-    "responsible": "Campos SAUNDERS",
+    "manager": "Campos SAUNDERS",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -8648,7 +8648,7 @@
       "city": "Ola",
       "country": "France"
     },
-    "responsible": "Lydia HUTCHINSON",
+    "manager": "Lydia HUTCHINSON",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -8674,7 +8674,7 @@
       "city": "Ellerslie",
       "country": "France"
     },
-    "responsible": "Haney QUINN",
+    "manager": "Haney QUINN",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -8700,7 +8700,7 @@
       "city": "Draper",
       "country": "France"
     },
-    "responsible": "Randi CARLSON",
+    "manager": "Randi CARLSON",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -8726,7 +8726,7 @@
       "city": "Tetherow",
       "country": "France"
     },
-    "responsible": "Mcgowan FITZGERALD",
+    "manager": "Mcgowan FITZGERALD",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -8752,7 +8752,7 @@
       "city": "Marysville",
       "country": "France"
     },
-    "responsible": "Angelia SYKES",
+    "manager": "Angelia SYKES",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -8778,7 +8778,7 @@
       "city": "Cloverdale",
       "country": "France"
     },
-    "responsible": "Evangeline STEIN",
+    "manager": "Evangeline STEIN",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -8804,7 +8804,7 @@
       "city": "Madaket",
       "country": "France"
     },
-    "responsible": "Justice HENDRIX",
+    "manager": "Justice HENDRIX",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -8830,7 +8830,7 @@
       "city": "Dodge",
       "country": "France"
     },
-    "responsible": "Camille GARCIA",
+    "manager": "Camille GARCIA",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -8856,7 +8856,7 @@
       "city": "Manila",
       "country": "France"
     },
-    "responsible": "Fischer SHARP",
+    "manager": "Fischer SHARP",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -8882,7 +8882,7 @@
       "city": "Ogema",
       "country": "France"
     },
-    "responsible": "Carrie PARSONS",
+    "manager": "Carrie PARSONS",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -8908,7 +8908,7 @@
       "city": "Strykersville",
       "country": "France"
     },
-    "responsible": "Delaney CARRILLO",
+    "manager": "Delaney CARRILLO",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -8934,7 +8934,7 @@
       "city": "Hartsville/Hartley",
       "country": "France"
     },
-    "responsible": "Fern SNYDER",
+    "manager": "Fern SNYDER",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -8960,7 +8960,7 @@
       "city": "Ypsilanti",
       "country": "France"
     },
-    "responsible": "Quinn ESPINOZA",
+    "manager": "Quinn ESPINOZA",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -8986,7 +8986,7 @@
       "city": "Beaulieu",
       "country": "France"
     },
-    "responsible": "Kim LEE",
+    "manager": "Kim LEE",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -9012,7 +9012,7 @@
       "city": "Gadsden",
       "country": "France"
     },
-    "responsible": "Alexander CROSS",
+    "manager": "Alexander CROSS",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -9038,7 +9038,7 @@
       "city": "Orason",
       "country": "France"
     },
-    "responsible": "Loraine ROBLES",
+    "manager": "Loraine ROBLES",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -9064,7 +9064,7 @@
       "city": "Greenbackville",
       "country": "France"
     },
-    "responsible": "Brittney MCCALL",
+    "manager": "Brittney MCCALL",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -9090,7 +9090,7 @@
       "city": "Wyano",
       "country": "France"
     },
-    "responsible": "Delacruz ANDERSON",
+    "manager": "Delacruz ANDERSON",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -9116,7 +9116,7 @@
       "city": "Ada",
       "country": "France"
     },
-    "responsible": "Ginger CANTRELL",
+    "manager": "Ginger CANTRELL",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -9142,7 +9142,7 @@
       "city": "Oneida",
       "country": "France"
     },
-    "responsible": "Merritt BROCK",
+    "manager": "Merritt BROCK",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -9168,7 +9168,7 @@
       "city": "Nord",
       "country": "France"
     },
-    "responsible": "Price BOYER",
+    "manager": "Price BOYER",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -9194,7 +9194,7 @@
       "city": "Rose",
       "country": "France"
     },
-    "responsible": "Tameka HARMON",
+    "manager": "Tameka HARMON",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -9220,7 +9220,7 @@
       "city": "Homestead",
       "country": "France"
     },
-    "responsible": "Bridgett SPENCE",
+    "manager": "Bridgett SPENCE",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -9246,7 +9246,7 @@
       "city": "Seymour",
       "country": "France"
     },
-    "responsible": "Lowery ROSS",
+    "manager": "Lowery ROSS",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -9272,7 +9272,7 @@
       "city": "Gerton",
       "country": "France"
     },
-    "responsible": "Alyssa PUCKETT",
+    "manager": "Alyssa PUCKETT",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -9298,7 +9298,7 @@
       "city": "Williston",
       "country": "France"
     },
-    "responsible": "Michael ATKINS",
+    "manager": "Michael ATKINS",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -9324,7 +9324,7 @@
       "city": "Nelson",
       "country": "France"
     },
-    "responsible": "Rose REED",
+    "manager": "Rose REED",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -9350,7 +9350,7 @@
       "city": "Cashtown",
       "country": "France"
     },
-    "responsible": "Edwards SOTO",
+    "manager": "Edwards SOTO",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -9376,7 +9376,7 @@
       "city": "Vallonia",
       "country": "France"
     },
-    "responsible": "Wendi HARDIN",
+    "manager": "Wendi HARDIN",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -9402,7 +9402,7 @@
       "city": "Brazos",
       "country": "France"
     },
-    "responsible": "Bright PAUL",
+    "manager": "Bright PAUL",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -9428,7 +9428,7 @@
       "city": "Glenshaw",
       "country": "France"
     },
-    "responsible": "Noel SELLERS",
+    "manager": "Noel SELLERS",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -9454,7 +9454,7 @@
       "city": "Sunnyside",
       "country": "France"
     },
-    "responsible": "Atkins WAGNER",
+    "manager": "Atkins WAGNER",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -9480,7 +9480,7 @@
       "city": "Westphalia",
       "country": "France"
     },
-    "responsible": "Sutton CHAPMAN",
+    "manager": "Sutton CHAPMAN",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -9506,7 +9506,7 @@
       "city": "Bainbridge",
       "country": "France"
     },
-    "responsible": "Judith FLOWERS",
+    "manager": "Judith FLOWERS",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -9532,7 +9532,7 @@
       "city": "Dorneyville",
       "country": "France"
     },
-    "responsible": "Gregory WALKER",
+    "manager": "Gregory WALKER",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -9558,7 +9558,7 @@
       "city": "Sanborn",
       "country": "France"
     },
-    "responsible": "Mcdowell GRIMES",
+    "manager": "Mcdowell GRIMES",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -9584,7 +9584,7 @@
       "city": "Keyport",
       "country": "France"
     },
-    "responsible": "Nola CLAYTON",
+    "manager": "Nola CLAYTON",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -9610,7 +9610,7 @@
       "city": "Valmy",
       "country": "France"
     },
-    "responsible": "Michelle FISCHER",
+    "manager": "Michelle FISCHER",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -9636,7 +9636,7 @@
       "city": "Loveland",
       "country": "France"
     },
-    "responsible": "Yang GAMBLE",
+    "manager": "Yang GAMBLE",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -9662,7 +9662,7 @@
       "city": "Klagetoh",
       "country": "France"
     },
-    "responsible": "Norma HARPER",
+    "manager": "Norma HARPER",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -9688,7 +9688,7 @@
       "city": "Strong",
       "country": "France"
     },
-    "responsible": "Nguyen JEFFERSON",
+    "manager": "Nguyen JEFFERSON",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -9714,7 +9714,7 @@
       "city": "Fairhaven",
       "country": "France"
     },
-    "responsible": "Haley JAMES",
+    "manager": "Haley JAMES",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -9740,7 +9740,7 @@
       "city": "Mansfield",
       "country": "France"
     },
-    "responsible": "Workman HICKS",
+    "manager": "Workman HICKS",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -9766,7 +9766,7 @@
       "city": "Turpin",
       "country": "France"
     },
-    "responsible": "Karin MALONE",
+    "manager": "Karin MALONE",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -9792,7 +9792,7 @@
       "city": "Cazadero",
       "country": "France"
     },
-    "responsible": "Eula HENDRICKS",
+    "manager": "Eula HENDRICKS",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -9818,7 +9818,7 @@
       "city": "Biddle",
       "country": "France"
     },
-    "responsible": "Michele COLLINS",
+    "manager": "Michele COLLINS",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -9844,7 +9844,7 @@
       "city": "Floriston",
       "country": "France"
     },
-    "responsible": "Wagner HOLDEN",
+    "manager": "Wagner HOLDEN",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -9870,7 +9870,7 @@
       "city": "Venice",
       "country": "France"
     },
-    "responsible": "Joanne DUKE",
+    "manager": "Joanne DUKE",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -9896,7 +9896,7 @@
       "city": "Springhill",
       "country": "France"
     },
-    "responsible": "Paige HARRIS",
+    "manager": "Paige HARRIS",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -9922,7 +9922,7 @@
       "city": "Nipinnawasee",
       "country": "France"
     },
-    "responsible": "Gordon MORALES",
+    "manager": "Gordon MORALES",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -9948,7 +9948,7 @@
       "city": "Coultervillle",
       "country": "France"
     },
-    "responsible": "Bernadette SEXTON",
+    "manager": "Bernadette SEXTON",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -9974,7 +9974,7 @@
       "city": "Cumminsville",
       "country": "France"
     },
-    "responsible": "Aline DALTON",
+    "manager": "Aline DALTON",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -10000,7 +10000,7 @@
       "city": "Cotopaxi",
       "country": "France"
     },
-    "responsible": "Marie REYES",
+    "manager": "Marie REYES",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -10026,7 +10026,7 @@
       "city": "Berwind",
       "country": "France"
     },
-    "responsible": "Hazel LANGLEY",
+    "manager": "Hazel LANGLEY",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -10052,7 +10052,7 @@
       "city": "Shepardsville",
       "country": "France"
     },
-    "responsible": "Lillie KIRK",
+    "manager": "Lillie KIRK",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -10078,7 +10078,7 @@
       "city": "Moquino",
       "country": "France"
     },
-    "responsible": "Estelle MURRAY",
+    "manager": "Estelle MURRAY",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -10104,7 +10104,7 @@
       "city": "Kennedyville",
       "country": "France"
     },
-    "responsible": "Latisha GILMORE",
+    "manager": "Latisha GILMORE",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -10130,7 +10130,7 @@
       "city": "Waukeenah",
       "country": "France"
     },
-    "responsible": "Hillary COOLEY",
+    "manager": "Hillary COOLEY",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -10156,7 +10156,7 @@
       "city": "Tryon",
       "country": "France"
     },
-    "responsible": "Copeland HAYES",
+    "manager": "Copeland HAYES",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -10182,7 +10182,7 @@
       "city": "Odessa",
       "country": "France"
     },
-    "responsible": "Cindy SCHMIDT",
+    "manager": "Cindy SCHMIDT",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -10208,7 +10208,7 @@
       "city": "Harrodsburg",
       "country": "France"
     },
-    "responsible": "Morgan LEONARD",
+    "manager": "Morgan LEONARD",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -10234,7 +10234,7 @@
       "city": "Byrnedale",
       "country": "France"
     },
-    "responsible": "Huber COLE",
+    "manager": "Huber COLE",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -10260,7 +10260,7 @@
       "city": "Alden",
       "country": "France"
     },
-    "responsible": "Kathrine SHIELDS",
+    "manager": "Kathrine SHIELDS",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -10286,7 +10286,7 @@
       "city": "Lewis",
       "country": "France"
     },
-    "responsible": "Black COOPER",
+    "manager": "Black COOPER",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -10312,7 +10312,7 @@
       "city": "Fidelis",
       "country": "France"
     },
-    "responsible": "Tanya JENKINS",
+    "manager": "Tanya JENKINS",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -10338,7 +10338,7 @@
       "city": "Bonanza",
       "country": "France"
     },
-    "responsible": "Vivian EVERETT",
+    "manager": "Vivian EVERETT",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -10364,7 +10364,7 @@
       "city": "Faxon",
       "country": "France"
     },
-    "responsible": "Mcdonald BOOTH",
+    "manager": "Mcdonald BOOTH",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
@@ -10390,7 +10390,7 @@
       "city": "Guthrie",
       "country": "France"
     },
-    "responsible": "Sawyer BARBER",
+    "manager": "Sawyer BARBER",
     "ape": "123A321",
     "licence": "LI123EEZZ4",
     "siret": 123456789,
